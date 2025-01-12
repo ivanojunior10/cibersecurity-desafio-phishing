@@ -11,10 +11,10 @@ Bem-vindo ao repositório do **Desafio de Cibersegurança** realizado durante o 
 
 As principais tecnologias e ferramentas utilizadas no desafio foram:
 
-- **tipo de ataque**: Social-Engineering Attacks.
-- **vetor de ataque**: Web Site Attack Vectors.
-- **metodo de ataque**: Credential Harvester Attack Method.
-- **metodo de ataque**: Site cloner
+- **Tipo de ataque**: Social-Engineering Attacks.
+- **Vetor de ataque**: Web Site Attack Vectors.
+- **Metodo de ataque**: Credential Harvester Attack Method.
+- **Metodo de ataque**: Site cloner
 - **Kali Linux**: ambiente para testes de segurança.
 
 ---
